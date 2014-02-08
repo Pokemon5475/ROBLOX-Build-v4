@@ -8,7 +8,7 @@ An edition of Build v4 in which the source code is easily visible. Changes can b
 
 --[[
 
-Icons by Pokemon5475 (thanks uhh... myself.).
+Icons by PyroInfinity (thanks bud).
 
 	The Developer's kit is for those who may want to adjust the tool
 or make your own plugins for it. It provides the raw code in an easy-
@@ -45,5 +45,3 @@ this model with his or her name (also, lowercase).
 	Have fun with my tool. I'd love for you to give it a thumbs up/
 favorite if you enjoy it (or best yet: spread the word).
 ]]
-
-~ScrewGuests
